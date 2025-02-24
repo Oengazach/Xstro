@@ -7,17 +7,17 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "SESSION HERE",
+      "description": "XSTRO_17_04_53",
       "required": true
     },
     "BOT_INFO": {
       "description": "BOT OWNER AND BOT NAME",
-      "value": "αѕтяσχ11;χѕтяσ м∂",
+      "value": "Zach;χѕтяσ м∂",
       "required": false
     },
     "TIME_ZONE": {
       "description": "TIMEZONE",
-      "value": "Asia/Kolkata",
+      "value": "Africa/Nairobi",
       "required": false
     },
     "WARN_COUNT": {
